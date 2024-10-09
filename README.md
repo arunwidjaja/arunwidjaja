@@ -10,40 +10,76 @@
 ---
 <!-- Python -->
 <a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width=100 height=100/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+         width="100" 
+         height="100" 
+         title="Python" />
 </a>
+
 <!-- LangChain -->
 <a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" width=100 height=100/>
+    <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" 
+         width="100" 
+         height="100" 
+         title="LangChain" />
 </a>
+
 <!-- ChromaDB -->
 <a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://raw.githubusercontent.com/arunwidjaja/arunwidjaja/0fbe343267a34d1070e3561b5ca6df8fe48a88fd/images/ChromaDB_transparent.svg" width=100 height=100/>
+    <img src="https://raw.githubusercontent.com/arunwidjaja/arunwidjaja/0fbe343267a34d1070e3561b5ca6df8fe48a88fd/images/ChromaDB_transparent.svg" 
+         width="100" 
+         height="100" 
+         title="ChromaDB" />
 </a>
+
 <!-- AWS -->
 <a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width=100 height=100/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
+         width="100" 
+         height="100" 
+         title="AWS" />
 </a>
-<!-- R Studio-->
+
+<!-- R Studio -->
 <a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width=100 height=100/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" 
+         width="100" 
+         height="100" 
+         title="R Studio" />
 </a>
-<!-- SQL-->
+
+<!-- SQL -->
 <a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=100 height=100/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+         width="100" 
+         height="100" 
+         title="SQL" />
 </a>
+
 <!-- VS Code -->
 <a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width=100 height=100/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
+         width="100" 
+         height="100" 
+         title="VS Code" />
 </a>
+
 <!-- HTML5 -->
 <a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width=100 height=100/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" 
+         width="100" 
+         height="100" 
+         title="HTML5" />
 </a>
-<!-- JavaScript-->
+
+<!-- JavaScript -->
 <a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=100 height=100/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+         width="100" 
+         height="100" 
+         title="JavaScript" />
 </a>
+
 
 
 
