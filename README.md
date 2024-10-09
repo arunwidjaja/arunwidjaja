@@ -4,7 +4,7 @@ Thanks for visiting my profile! I'm a full stack developer with a data science a
 
 In my free time, I like reading, staying active, and enjoying the outdoors.
 
-Feel free to reach out if you want to collaborate on a project, recommend a good book, or just chat!
+Feel free to reach out if you want to collaborate on a project, or just chat!
 
 ### Languages and Tools
 ---
