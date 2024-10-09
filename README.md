@@ -2,9 +2,11 @@
 
 Thanks for visiting my profile! I'm a full stack developer with a data science and database administration background. I'm currently working on a few projects implementing GenAI and RAG.
 
-In my free time, I like reading, staying active, and enjoying the outdoors.
+Previously, I was a Deployment Analyst with Workday.
 
-Feel free to reach out if you want to collaborate on a project, or just chat!
+When I'm not working or maintaining my home server, I enjoy reading, staying active, and enjoying the outdoors.
+
+Feel free to reach out if you want to collaborate on a project or just chat!
 
 ### Languages and Tools
 ---
