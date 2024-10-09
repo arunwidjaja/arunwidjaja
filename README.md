@@ -2,11 +2,9 @@
 
 Thanks for visiting my profile! I'm a full stack developer with a data science and database administration background. I'm currently working on a few projects implementing GenAI and RAG.
 
-## Contact - @arunwidjaja
+In my free time, I like reading, staying active, and enjoying the outdoors.
 
-<a href="https://www.linkedin.com/in/arunwidjaja/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
+Feel free to reach out if you want to collaborate on a project, recommend a good book, or just chat!
 
 ### Languages and Tools
 ---
