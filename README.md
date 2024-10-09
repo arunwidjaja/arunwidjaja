@@ -16,6 +16,10 @@
 <a href="https://github.com/arunwidjaja" target="_blank">
     <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" width=100 height=100/>
 </a>
+<!-- ChromaDB -->
+<a href="https://github.com/arunwidjaja" target="_blank">
+    <img src="https://raw.githubusercontent.com/arunwidjaja/arunwidjaja/0fbe343267a34d1070e3561b5ca6df8fe48a88fd/images/ChromaDB_transparent.svg" width=100 height=100/>
+</a>
 <!-- AWS -->
 <a href="https://github.com/arunwidjaja" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width=100 height=100/>
@@ -78,7 +82,7 @@ Here are some ideas to get you started:
 
 Badge Template:
 <a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" width=100 height=100/>
+    <img src="https://raw.githubusercontent.com/arunwidjaja/arunwidjaja/0fbe343267a34d1070e3561b5ca6df8fe48a88fd/images/ChromaDB_transparent.svg" width=100 height=100/>
 </a>
 
 <img src="https://user-images.githubusercontent.com/891664/227103090-6624bf7d-9524-4e05-9d2c-c28d5d451481.png" alt="Chroma logo">
