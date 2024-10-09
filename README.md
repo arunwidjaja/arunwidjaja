@@ -13,13 +13,13 @@ Feel free to reach out if you want to collaborate on a project, or just chat!
 </a>
 
 <a href="https://www.instagram.com/arunwidjaja/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+    <img src="https://github.com/arunwidjaja/arunwidjaja/blob/main/images/instagram_transparent.svg"
          width="40" 
          height="40"/>
 </a>
 
 <a href="https://www.goodreads.com/arunwidjaja/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+    <img src="https://github.com/arunwidjaja/arunwidjaja/blob/main/images/goodreads_transparent.svg"
          width="40" 
          height="40"/>
 </a>
