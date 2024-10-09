@@ -6,24 +6,6 @@ In my free time, I like reading, staying active, and enjoying the outdoors.
 
 Feel free to reach out if you want to collaborate on a project, or just chat!
 
-<a href="https://www.linkedin.com/in/arunwidjaja/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-         width="40" 
-         height="40"/>
-</a>
-
-<a href="https://www.instagram.com/arunwidjaja/" target="_blank">
-    <img src="https://github.com/arunwidjaja/arunwidjaja/blob/main/images/instagram_transparent.svg"
-         width="40" 
-         height="40"/>
-</a>
-
-<a href="https://www.goodreads.com/arunwidjaja/" target="_blank">
-    <img src="https://github.com/arunwidjaja/arunwidjaja/blob/main/images/goodreads_transparent.svg"
-         width="40" 
-         height="40"/>
-</a>
-
 ### Languages and Tools
 ---
 <!-- Python -->
@@ -98,6 +80,26 @@ Feel free to reach out if you want to collaborate on a project, or just chat!
          title="JavaScript" />
 </a>
 
+### Reach Out
+
+
+<a href="https://www.linkedin.com/in/arunwidjaja/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+         width="40" 
+         height="40"/>
+</a>
+
+<a href="https://www.instagram.com/arunwidjaja/" target="_blank">
+    <img src="https://github.com/arunwidjaja/arunwidjaja/blob/main/images/instagram_transparent.svg"
+         width="40" 
+         height="40"/>
+</a>
+
+<a href="https://www.goodreads.com/arunwidjaja/" target="_blank">
+    <img src="https://github.com/arunwidjaja/arunwidjaja/blob/main/images/goodreads_transparent.svg"
+         width="40" 
+         height="40"/>
+</a>
 
 
 
