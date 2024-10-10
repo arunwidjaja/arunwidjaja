@@ -4,7 +4,7 @@ Thanks for visiting my profile! I'm a full stack developer with a data science a
 
 Previously, I was a Deployment Analyst with Workday.
 
-When I'm not working or maintaining my home server, I enjoy reading, staying active, and enjoying the outdoors.
+When I'm not working or maintaining my home server, I enjoy reading, staying active, and spending time outdoors.
 
 Feel free to reach out if you want to collaborate on a project or just chat!
 
