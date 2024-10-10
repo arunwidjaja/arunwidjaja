@@ -104,26 +104,6 @@ Feel free to reach out if you want to collaborate on a project or just chat!
 </a>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
 **arunwidjaja/arunwidjaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -141,10 +121,9 @@ Here are some ideas to get you started:
 
 Badge Template:
 <a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://raw.githubusercontent.com/arunwidjaja/arunwidjaja/0fbe343267a34d1070e3561b5ca6df8fe48a88fd/images/ChromaDB_transparent.svg" width=100 height=100/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+         width="100" 
+         height="100" 
+         title="Python" />
 </a>
-
-<img src="https://user-images.githubusercontent.com/891664/227103090-6624bf7d-9524-4e05-9d2c-c28d5d451481.png" alt="Chroma logo">
-
 -->
-
