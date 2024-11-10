@@ -40,6 +40,14 @@ Feel free to reach out if you want to collaborate on a project or just chat!
          title="ReactJS" />
 </a>
 
+<!-- JavaScript -->
+<a href="https://github.com/arunwidjaja" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+         width="100" 
+         height="100" 
+         title="JavaScript" />
+</a>
+
 <!-- AWS -->
 <a href="https://github.com/arunwidjaja" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
@@ -64,21 +72,7 @@ Feel free to reach out if you want to collaborate on a project or just chat!
          title="SQL" />
 </a>
 
-<!-- HTML5 -->
-<a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" 
-         width="100" 
-         height="100" 
-         title="HTML5" />
-</a>
 
-<!-- JavaScript -->
-<a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-         width="100" 
-         height="100" 
-         title="JavaScript" />
-</a>
 
 
 ### Reach Out
