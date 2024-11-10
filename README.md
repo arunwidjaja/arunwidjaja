@@ -32,6 +32,14 @@ Feel free to reach out if you want to collaborate on a project or just chat!
          title="ChromaDB" />
 </a>
 
+<!-- ReactJS -->
+<a href="https://github.com/arunwidjaja" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
+         width="100" 
+         height="100" 
+         title="ReactJS" />
+</a>
+
 <!-- AWS -->
 <a href="https://github.com/arunwidjaja" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
@@ -56,14 +64,6 @@ Feel free to reach out if you want to collaborate on a project or just chat!
          title="SQL" />
 </a>
 
-<!-- VS Code -->
-<a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
-         width="100" 
-         height="100" 
-         title="VS Code" />
-</a>
-
 <!-- HTML5 -->
 <a href="https://github.com/arunwidjaja" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" 
@@ -79,6 +79,7 @@ Feel free to reach out if you want to collaborate on a project or just chat!
          height="100" 
          title="JavaScript" />
 </a>
+
 
 ### Reach Out
 
@@ -100,6 +101,7 @@ Feel free to reach out if you want to collaborate on a project or just chat!
          width="40" 
          height="40"/>
 </a>
+
 
 
 <!--
