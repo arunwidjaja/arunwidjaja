@@ -40,9 +40,9 @@ Feel free to reach out if you want to collaborate on a project or just chat!
          title="ReactJS" />
 </a>
 
-<!-- JavaScript -->
-<a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+<!-- TypeScript -->
+<a href="https://github.com/arunwidjaja" target="_blank">          
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
          width="100" 
          height="100" 
          title="JavaScript" />
