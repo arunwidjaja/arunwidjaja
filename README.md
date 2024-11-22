@@ -4,7 +4,7 @@ Thanks for visiting my profile! I'm a full stack developer with a data science a
 
 When I'm not working or maintaining my home server, I enjoy reading, staying active, and connecting with the outdoors.
 
-Feel free to reach out if you want to collaborate on a project or just chat!
+Feel free to reach out if you want to collaborate on a project or just chat! I'm always open to new ideas and seeing what other are creating.
 
 ### Languages and Tools
 ---
