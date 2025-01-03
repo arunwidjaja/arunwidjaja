@@ -48,6 +48,14 @@ Feel free to reach out if you want to collaborate on a project or just chat! I'm
          title="JavaScript" />
 </a>
 
+<!-- PostgreSQL -->
+<a href="https://github.com/arunwidjaja" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+         width="100" 
+         height="100" 
+         title="PostgreSQL" />
+</a>
+
 <!-- AWS -->
 <a href="https://github.com/arunwidjaja" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
@@ -64,13 +72,7 @@ Feel free to reach out if you want to collaborate on a project or just chat! I'm
          title="R Studio" />
 </a>
 
-<!-- SQL -->
-<a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-         width="100" 
-         height="100" 
-         title="SQL" />
-</a>
+
 
 
 
