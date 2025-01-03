@@ -16,22 +16,6 @@ Feel free to reach out if you want to collaborate on a project or just chat! I'm
          title="Python" />
 </a>
 
-<!-- LangChain -->
-<a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" 
-         width="100" 
-         height="100" 
-         title="LangChain" />
-</a>
-
-<!-- ChromaDB -->
-<a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://raw.githubusercontent.com/arunwidjaja/arunwidjaja/0fbe343267a34d1070e3561b5ca6df8fe48a88fd/images/ChromaDB_transparent.svg" 
-         width="100" 
-         height="100" 
-         title="ChromaDB" />
-</a>
-
 <!-- ReactJS -->
 <a href="https://github.com/arunwidjaja" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
@@ -64,6 +48,21 @@ Feel free to reach out if you want to collaborate on a project or just chat! I'm
          title="AWS" />
 </a>
 
+<!-- LangChain -->
+<a href="https://github.com/arunwidjaja" target="_blank">
+    <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" 
+         width="100" 
+         height="100" 
+         title="LangChain" />
+</a>
+
+<!-- ChromaDB -->
+<a href="https://github.com/arunwidjaja" target="_blank">
+    <img src="https://raw.githubusercontent.com/arunwidjaja/arunwidjaja/0fbe343267a34d1070e3561b5ca6df8fe48a88fd/images/ChromaDB_transparent.svg" 
+         width="100" 
+         height="100" 
+         title="ChromaDB" />
+</a>
 <!-- R Studio -->
 <a href="https://github.com/arunwidjaja" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" 
