@@ -1,6 +1,6 @@
 ## About Me
 
-Thanks for visiting my profile! I'm a full stack developer with a data science and database administration background. I'm currently working on a few projects implementing GenAI and RAG.
+Thanks for visiting my profile! I'm a software engineer specializing in FinTech and data science applications. I'm currently working on backend at Autopilot, as well as a few personal projects implementing Generative AI.
 
 When I'm not working or maintaining my home server, I enjoy reading, staying active, and connecting with the outdoors.
 
@@ -8,20 +8,13 @@ Feel free to reach out if you want to collaborate on a project or just chat! I'm
 
 ### Languages and Tools
 ---
+
 <!-- Python -->
 <a href="https://github.com/arunwidjaja" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
          width="100" 
          height="100" 
          title="Python" />
-</a>
-
-<!-- ReactJS -->
-<a href="https://github.com/arunwidjaja" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
-         width="100" 
-         height="100" 
-         title="ReactJS" />
 </a>
 
 <!-- TypeScript -->
@@ -48,6 +41,22 @@ Feel free to reach out if you want to collaborate on a project or just chat! I'm
          title="AWS" />
 </a>
 
+<!-- GCP -->
+<a href="https://github.com/arunwidjaja" target="_blank">  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg"      
+         width="100" 
+         height="100" 
+         title="GCP" />
+</a>
+
+<!-- ReactJS -->
+<a href="https://github.com/arunwidjaja" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
+         width="100" 
+         height="100" 
+         title="ReactJS" />
+</a>
+
 <!-- LangChain -->
 <a href="https://github.com/arunwidjaja" target="_blank">
     <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" 
@@ -63,6 +72,7 @@ Feel free to reach out if you want to collaborate on a project or just chat! I'm
          height="100" 
          title="ChromaDB" />
 </a>
+
 <!-- R Studio -->
 <a href="https://github.com/arunwidjaja" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" 
