@@ -1,6 +1,6 @@
 ## About Me
 
-Thanks for visiting my profile! I'm a software engineer specializing in FinTech and data science applications. I'm currently working on backend at Autopilot, as well as a few personal projects implementing Generative AI.
+Thanks for visiting my profile! I'm a software engineer specializing in FinTech and data science applications. I'm currently working on a few personal projects implementing Generative AI.
 
 When I'm not working or maintaining my home server, I enjoy reading, staying active, and connecting with the outdoors.
 
